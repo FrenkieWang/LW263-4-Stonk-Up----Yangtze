@@ -1,6 +1,7 @@
 # LW263-4-Stonk-Up----Yangtze
 The Ivie Estate – an property or stock  management portfolio application
 
+
 How to run this program?
 1) Right Click "client" -> open in integrated terminal
 2) Enter the command:  npm install React firebase react-dom
