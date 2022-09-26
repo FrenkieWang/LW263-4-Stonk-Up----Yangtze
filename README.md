@@ -1,6 +1,7 @@
 # LW263-4-Stonk-Up----Yangtze
-The Ivie Estate – an property or stock  management portfolio application
+The Ivie Estate – an property or stock  management portfolio application.
 
+LW263-4 is a collaborative project with a law student from LW263, which was set up an application for the management of stock portfolios. The representative from the law class gave us the specification for our project. She had a list of requirements that should be implemented in the app. As a group we discussed which of the requirements would be possible and how we could implement them in our project using the knowledge we had gained from our CS385 module. We developed this app to meet the specification as close as possible. We chose this project as it is an example of an app that could be used in everyday life.
 
 How to run this program?
 1) Right Click "client" -> open in integrated terminal
